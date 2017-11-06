@@ -1,0 +1,19 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevhensydorov/yelpCamp.git"
+  },
+  "author": "Yevhen Sydorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevhensydorov/yelpCamp/issues"
+  },
+  "homepage": "https://github.com/yevhensydorov/yelpCamp#readme"
+}
