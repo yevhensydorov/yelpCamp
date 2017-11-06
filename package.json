@@ -2,7 +2,7 @@
   "name": "yelpcamp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/yevhensydorov/yelpCamp/issues"
   },
-  "homepage": "https://github.com/yevhensydorov/yelpCamp#readme"
+  "homepage": "https://github.com/yevhensydorov/yelpCamp#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "reload": "^2.2.2"
+  }
 }
